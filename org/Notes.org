@@ -1,0 +1,180 @@
+* Introduction
+Roleplay basics.  You get to play a character!
+* Characters
+** Creation
+Pick a name, [[Age, Gender, Species and Size][Age, Gender, Species and Size]].
+
+The GM should tell you how many initial [[experience points][experience points]] you can use to build your characters.  The following table is a guideline for a typical campaign.
+
+| Allocation | [[Stats][Stats]] | [[Skills][Skills]] | [[Abilities][Abilities]] |
+|------------+-------+--------+-----------|
+| Points     |    10 |     10 |        10 |
+/The average stat score for a human is 1-3/
+/[[Stats]] and [[Skills]] can be purchased point for point, [[Abilities]] have varied point costs listed for each.
+** Age, Alignment, Gender, Species and Size
+These parts of your character can be selected for freely and only come into play at character creation.  Some species may award abilities or changes in stats.  Some genders may effect size and a characters age might modify stats aswell.  Depending on where your character is; species, age, gender and size may confir some political benifit or hinderance.
+*** Species
+**** Human
+**** Elf
+**** Dwarf
+**** Hobbit
+*** Age
+There are three basic age groups; *Young, Adult* and *Old*.  Like Gender and size, you can freely select from these.  The effects of each age group are determined by your species.
+*** Alignment
+This is a general statement about your character's moral compass.  It's usually not important but it may be contrained by certain abilities.
+*** Gender
+The genders available and the differences amoungst them are determined by your species.  Generally a character can be male, female or other.  Unless otherwise noted, there are no differences between the genders.
+*** Size 
+Within your species and gender, you may select small, average or large.  This may change something, as noted within your species, otherwise it's entirely personal preferance.
+** Stats
+Statistics (/Stats/) are the base six governing physical and mental scores that describe the character.
+*** Strength
+Force a character can exert.
+*** Dexterity
+Agility, speed and hand-eye coordination.
+*** Constitution
+Toughness, endurance and fortitude.
+*** Intelligence
+Factual knowledge, memory and education.
+*** Wisdom
+Magical aptitude, awareness and common sense.
+*** Charisma
+Charm, ritual magic and appearance.
+** Derived Attributes
+**** Carrying Capacity
+***** Characters can carry their *STR x 20Kg* without hindrance.
+****** /Note: This is not the same as bulk./
+***** Characters can push, drag or lift a weight equal to their *STR x 100Kg* 
+** Experience Points
+*** Progression is governed by the accumulation of basic experience points which can be saved up or used to purchase new *Abilities* or upgrade *Stats* or *Skills*
+* Skills and Abilities
+** Skills
+Skills are all things specialized, including magical spells. 
+*** Overview - Skills
+**** Many skills can be attempted /untrained/ using just the governing stat.
+**** Characters cannot take more ranks in a skill than the governing stat.
+***** /Example: Bluff is a Charisma skill so a character cannot have a higher bluff score than they have charisma score, though *Abilities* can augment the total./
+**** Total dice bonuses are determined by adding the ranks in a skill to the governing stat.
+***** /Example: A character with Charisma *3* and Bluff *3* would have a *+6* bonus to bluff checks./
+**** Many spells are cast through skills
+*** Skill list
+| Name | Use | Special |
+|------+-----+---------|
+|      |     |         |
+** Abilities
+Abilities are unique and strange.  They are governed entirely by their individual description and very widely.
+*** Overview - Abilities
+**** If a character has a special power that can be used at will without contest, it's considered an ability.
+**** Some abilities require a certain number of ranks in a skill before they can be purchased or used.
+**** Certain skills require having abilities before they can be used, in the same way certain skills require equipment.
+***** /Example: The skill *Necromancy* requires a user to possess *Magical Aptitude* before it can be really useful./
+****  Some abilities do require checks to utilize because  more training is needed to attempt than a regular maneuver.
+***** /Example: Whirlwind attack, where a character can make a strike against *all* adjacent opponents at once, is an Ability.  It can't even be attempted by an untrained combatant./
+**** Some abilities act as prerequisites for other abilities.
+**** Many singular spells are treated as abilities as described.
+*** Abilities List
+| Name | Cost | Required | Special | Summary |
+|------+------+----------+---------+---------|
+| Trip |    1 | Manuvers | T       |         |
+* Basic Rules
+** Contests and Obstacles
+*** Contests and Obstacles are two kinds of *Checks* that players are expected to make to determine their success or failure in any given action.
+**** Unless specifically noted, *10's can always be taken* instead of an actual roll.
+*** Contest
+**** A contest is two or more competing rolls, each modified by the challengers various advantages or disadvantages, skills and abilities.
+***** /Example: Two people have an arm wrestling match.  Each roll a dice and add their strength to the result but perhaps one of the two didn't sleep the night before and is taking a *-1* for being tired.  The contestant with the higher result wins./
+*** Obstacle
+**** A simple roll to beat DC.  The DC is determined simply by the difficulty of the obstacle, plus any modifiers. 
+***** /Example: A player wants to climb over a wall.  The GM decides that because it's raining the wall is slick, the players is required to pass a *DC:18* climb check to make it up and over the wall.  The player rolls and adds his/her climb bonus.  If the result is 18 or more, they pass.
+*** Sometimes a contest behaves more like an obstacle and obstacles like contests.  They're really the same thing except that with an obstacle the DC is static and with a contest the DC is varied.
+**** /Example: Climbing the side of a dragon might be a contest where as climbing a wall might not be.  Similarly, hitting a sleeping body might be an obstacle instead of a contest./
+** Combat
+**** Combat, both melee and ranged, is a usually a contest between skills and broken up into rounds.
+*** Rounds
+**** Combat is taken over the course of rounds, one turn at a time, in an order determined by initiative.
+**** Each round is *6 Seconds* long.
+*** Initiative 
+***** Initiative is determined once at the beginning of the combat and usually remains set until the combat is over.  A character's initiative bonus is their *Dex + Wis*
+****** There are many advantages in going early in the initiative.  Not only do early turns allow characters a chance to cripple enemies, they're also able to delay all or some of their actions until later in the round (a luxury not afforded to those acting late in the turn order)
+*** Actions in Combat   
+**** Movement
+**** Attacking
+**** Defending
+**** Damage
+**** Special
+***** Charging
+***** Trips and Slips
+***** Shove and Tackle
+***** Drawing and Sheathing
+*** Delaying, Defensive and Triggered Actions
+*** Reach and Quarters
+**** Crowding
+** Living and Dying
+*** Health (HP)
+**** Calculating Max HP
+***** A characters HP is their /constitution score/ plus /six/ *(CON + 6)*
+**** Taking Wounds
+***** Characters can never receive a *mundane* bonus on a check higher than their current HP.
+***** Characters can never make actions taking more *seconds* than their current HP.
+*** Dying
+**** When characters take enough damage to put them *below zero* they are Dying.
+***** Dying Characters fall /prone/ if possible and become /unconscious/.
+      ***** No matter how much non-critical damage brought the character below zero, a dying character is at first knocked to *negative 1* (-1)
+****** /Example: A character with *4 HP* takes 11 damage from an explosion.  The character is now at *-1 HP* and must sustain on their next turn or continue dying./
+****** /Critical Damage/ is not stopped at *(-1)* and can kill characters in a single hit, or bring them to a negative less than -1
+******* /Example: An attacked scores a critical against a character with *3 HP*.  The attacker deals *7 damage* with their critical and drops the character to *-4 HP*.  The character must sustain on their next turn or continue dying.
+***** A character at *negative 10* (-10) dies.
+*** Healing
+**** Resting for 8 hours will heal a character naturally but there are three qualities of rest.
+***** *Poor* rest would be like sleeping for 8 hours in a damp city ally after being mugged.  Characters heal *1 HP* per *8 hours* of /Poor Rest/.
+***** *Standard* rest is in a basic, dry bed of some sort, at a comfortable temperature and mostly undisturbed and safe.  Characters heal their *CON +1 HP* per *8 hours* of /Standard Rest/
+***** *Excellent* rest is usually facilitated by care takers and medical personnel, or in an exceptionally comfortable environment like a resort or bath house.  Characters heal *(x2 CON) +1 HP* per *8 hours* of /Excellent Rest/.
+* Weapons, Armor and Equipment
+** Bulk, Weight and Price
+*** Bulk
+**** Weapons
+***** Seconds required to draw and sheath
+***** Maximum damage bonus from strength
+***** When two-handing a weapon, the bulk *limit* is doubled, not necessarily the bonus.
+**** Armor
+***** Minutes required to dawn
+***** Minimum strength required
+*** Weight
+*** Price
+** Weapons
+*** Simple Weapon List
+|-------+-------+--------+------+-----+------+---------|
+| Name  | Price | Damage | Bulk |  Kg | Crit | Special |
+|-------+-------+--------+------+-----+------+---------|
+| Knife |     1 |    1d2 |    2 | 0.5 | x3   |         |
+|-------+-------+--------+------+-----+------+---------|
+|       |       |        |      |     |      |         |
+|-------+-------+--------+------+-----+------+---------|
+|       |       |        |      |     |      |         |
+|-------+-------+--------+------+-----+------+---------|
+|       |       |        |      |     |      |         |
+*** Special
+| Name      | Effect                                       |
+|-----------+----------------------------------------------|
+| Quickdraw | Drawing the item only requires half the bulk |
+| Conceal   |                                              |
+|           |                                              |
+** Armor
+** Equipment
+* Spells and Magic
+Inside the world of Sadrol, magic is common but magic users are not.  The setting tries to be simultaneously magical and mysterious.  Magic will be the main difference between man and beast, the latter seeming to have an intuitive understanding of magic and a basic magical ability. 
+*** Simple Spell List
+| Name         | Cost | Skill | Required | *C* | *Summary*                                                  |
+|--------------+------+-------+----------+-----+------------------------------------------------------------|
+| Magic Missle |    1 |       |          |     | Shoots colorful energetic rockets from the casters fingers |
+|--------------+------+-------+----------+-----+------------------------------------------------------------|
+|              |      |       |          |     |                                                            |
+|--------------+------+-------+----------+-----+------------------------------------------------------------|
+|              |      |       |          |     |                                                            |
+|--------------+------+-------+----------+-----+------------------------------------------------------------|
+|              |      |       |          |     |                                                            |
+|--------------+------+-------+----------+-----+------------------------------------------------------------|
+|              |      |       |          |     |                                                            |
+|--------------+------+-------+----------+-----+------------------------------------------------------------|
+|              |      |       |          |     |                                                            |
+|              |      |       |          |     |                                                            |
