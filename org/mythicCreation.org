@@ -65,12 +65,17 @@
      - Must be Human
      - Starts with *300gp* worth of gear
      - Sworn Oath of Chast
-     - In Search of the [[file:linkMe][Wood Grail]]
-     - Technically in the service of Lord [[file:linkMe][Bellingham]]
+     - In Search of the [[file:linkMe][Green Spear]]
+     - Technically in the service of Chancellor [[file:linkMe][Bellingham]]
      - Made deal with Lord [[file:linkMe][Lutra]]
        - In Exchange for the use of a noble stead, Sir Shiney must train
          Horse Girl
      - Equipment
+       - Full Plate or Half Plate
+       - Pike, Lance or Spear
+     - Special Equipment
+       - Map of The Kingdom (Average Quality)
+       - One Piece of Equipment can be Masterworked
   5) War-Horse Girl/Stable Boy
      - Must be Human or half-human
      - Starts with *100gp* worth of gear
@@ -78,9 +83,24 @@
      - Squire to Sir Shiney
      - Looks after the horse
        - The Horse has +8 Int, +4 Wis and +2 Cha
-       - 
      - Basically speaks horse
      - Equipment
+       - Chain Shirt or Ring Mail
+       - Backpack
+       - Bedroll
+       - Blanket
+       - x10 Pitons and Hooks
+       - 100ft Red Silk Rope
+       - Tinderbox
+       - Mess Kit
+       - Waterskin
+       - Whetdtone
+       - x10 Days raitions
+	 - hard tack
+	 - cranberry jam
+	 - walnuts
+	 - dried sausage
+	 - aged white-cheese block
      - Special Equipment
        - Lutra Seed Bag
 	 - Whenever there's seed or feed in the bag, the owner gains a +2 Magical Bonus to Handle Animal
@@ -90,8 +110,35 @@
 	 - When consumed early in the day the magic milk provides +1 on all d20 rolls until sleep
 	 - *4* servings
 	 - spoils in 4 days
-  6) Farm Lad
-     - Needs a rework
+       - Razor-sharp Buck Knife
+	 - Masterworked Dagger
+  6) Wizard's Apprentice
+     - Must be an arcane caster
+     - Starts with *50gp* worth of gear
+     - Equipment
+       - Small Fine wooden lock box
+       - Ink Pen
+       - Ink Vial
+       - Hard Leather Map Case
+       - Clay Lamp
+       - 5 Candles
+       - Jug of Lamp Oil
+       - 20 Sheets of paper
+       - Vial of perfume
+       - Sealing Wax
+       - Signet Ring for the [[Magi][Magi]]
+       - Fine Clothing
+     - Special Equipment
+       - Bag of holding 10'x10'
+       - Wand OR Hat OR Cape OR Staff (roll 1d4?)
+	 - Wand
+	   - +1 Caster Level for spells of a chosen school and can be used to cast unlimted fearie fire
+	 - Hat
+	   - +1 Int, Wis OR Cha, and also unlimited charm person
+	 - Cape
+	   - Pick one unlimited obscuring mist, unlimited disguise self, or +5 stealth
+	 - Staff
+	   - Is a quarter staff, and can be commanded to be a rod of force or be commanded to act as under the spell feather fall or Jump if ridden
 *** Make 6 Stat pools that the characters can distribute amoungst themselves
 |  A |  B |  C |  D |  E |  F |
 |----+----+----+----+----+----|

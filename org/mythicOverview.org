@@ -1,4 +1,3 @@
-#+SETUPFILE: org-html-themes/setup/theme-readtheorg.setup
 * Gods and Devils
 ** Sol - Birth
 Sol is known as the queen of kings and 'The Godess' or simply 'The Light'.  She is the only god worshipped by [[The Church][The Church]].  Her followers provide  healing and care for the sick, performs all rites and religeous rituals.  She prescribes kindness, forgiveness and family.
@@ -44,6 +43,8 @@ The Grand Forest, often called Mirwood, is the largest, oldest and most dense fo
 Everything on the map is under the rule of the King or Queen
 ** Druuthenholm Mountains
 The historical homelands of the Dwarves
+** Lutra
+The lands that makeup [[Lord Lutra][Lord Lutra]]'s region are known as /The Highlands/ or simply /Lutra/.  It is reasonably farmable and large.  The lands are known to produce more wheat then all other regions combined.  It is also famous for it's horses, cows, pigs and even chickens that seem to be extra alert, trainable and intellegent. 
 * Cities and Towns
 ** Chendrin Hall
 ** Castle Heron
@@ -72,10 +73,24 @@ The queen is considered by most to be cold and condescending.  Taking little int
 ** High Priest Anslem
 ** Lady Jarvesetee
 The last and only heir to the Jarvesetee house.  Jarvesetee lands are considered to be the finest in the land, with a utilitarian and productive people.  A famous phrase from all over the kingdom is a "Jarvesetee Begger" which means, a person who is sad about something small even though their life is generally alright.
+** Lord Lutra
+Sometimes called the "Wood King" or "Lord Butter-Bread", Lord Lutra looks after the largest singular swath of land inside [[The Kingdom][The Kingdom]].  His lands are famous for farming and animal husbandry.  His people are not rich or fashonable but are generally content.  Lord Lutra himself is a massave fat man who delights in little pleasures, jokes and theater.
 * Factions and Guilds
 ** The Church
 The only sanctioned religeon in [[The Kingdom][The Kingdom]].  Every city, town and even most hamlets have at least a shrine dedicated to [[Sol - Birth][Sol]] and under the direct control and curation of *The Church*.  The church welcomes all to it's services but within it's own ranchs, has a rigid structure and heirarchy.  Towns that are graced with a presence of the church have at least a priest, priestess or friar.  Some cities might have hundreds of clergy.  *The Church* doesn't directly involve itself in the day to day political functions of [[The Kingdom][The Kingdom]] but does have a single vote when it comes time to [[Royal Family][choose a royal house]].  Wise noble houses would do well to stay in the good graces of the church, since they command huge amounts of public and private opinion.
 The church also provides communities with vital medical and disaster relief services.  They generally preach peace and forgiveness but when they [[Witchcraft][have reason]] they have little trouble finding a passage or two in [[The Prayers][The Prayers]] to excuse violent torture.
+The Church is organized in the following way
+- First Archon
+  - Archon
+    - Imam
+      - Awakened Dreamer
+	- Enlightened Dreamer
+	  - Adept
+	    - Initiate
+	      - Neophite
+      - Flagulant
+	- Initiate
+	  - Neophite
 ** The Draco-Cults
 There is only one Draco-Cult that moves through the kingdom in broad daylight, that is the cult of [[Raz-Modian][Raz-Modian]].  Every year, the agents of the red dragon select a maiden from amoungst the citizenry and bring her back to Raz-Modian.  This is done with full knowledge and protection of the King.  Many see it as a neccesarry evil and do their best not to draw the attention of any Draco-Cultists. Unknown to most, there are members of other Draco-Cults, in service to some of the other dragons.
 ** House Heron
@@ -84,6 +99,8 @@ There is only one Draco-Cult that moves through the kingdom in broad daylight, t
 The magi is a catch all term for the arcane casters of the kingdom.  Magi aren't a unified group even though they are often considered so by the peoples of [[The Kingdom][The Kingdom]].  Many Magi take on apprentices or sit on councils but there isn't a singlular rule or convention regarding their ways.
 ** The Laplass Family
 The Laplass family has been in control of the throne for almost a century.  Members of the Laplass family are simultaneously known for long life and violent death.  The eldest living memeber is [[Count Putnam Laplass][Count Putnam Laplass]] but [[The Queen][The Queen]] herself is said to be not much younger.
+** The Justice
+The Justice is the name for the royal knights granted total freedom to protect the kingdom and carry out the wishes of the [[Royal Family][Royal Family]].  Although they are all knighted, many of them do not wear gleaming armor and ride horses, they are often drab and debonair.
 * Myth and Minutiae
 ** Witchcraft
 Magic of the wizarding sort is rare within [[The Kingdom][The Kingdom]].  It is most often found within the halls of on of the [[The Magi][Magi schools of magic]].  Most common folk find /polite/ tricks of magic amusing and harmless but tend do decide for themselves what is friendly magic and what is witchcraft.  [[The Church][The Church]] has no problem amplifiying such suspicians of the dark arts.
