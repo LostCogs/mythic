@@ -58,8 +58,10 @@ Formerly a Beautiful farming community looked after by a noble lord.  When the l
 Blackstone is the capital of the kingdom, it is the largest city and boasts the oldest history and most attractions.  It is odly named, as no part of the city is made from anything that could be considered black stone.
 - The Royal Castle
 - <<Jingwei Basilica>>
-  - Jingwei Basilica is a massive and Beautiful church of [[Sol - Birth][Sol]].  It has over a hundred chambers, no including [[The Catacombs][Catacombs]] that are on the rear grounds.
-  - <<The Catacombs>> are a labryth of tombs and graves 
+  - Jingwei Basilica is a massive and Beautiful church of [[Sol - Birth][Sol]].  It has over a hundred chambers, no including
+  - [[The Catacombs][Catacombs]] that are on the rear grounds.
+  - <<The Catacombs>> are a labryth of tombs and graves
+  - <<The Holy Articulary>> is the most important room in the [[Jingwei Basiclica][Basiclica]].  It's where the [[Pentateuch][Pentateuch]] and the [[First Facsimiles][First Facsimiles]] are kept.  It is extremely well guarded and is located at the heart of the building.
 ** Bondwafer
    Bondwafer is the largest and only Halfling town in [[The Kingdom][The Kingdom]].  It has a population of some odd 10,000 hobbits dispersed over a large region.  Most halflings live amoungst the other races and it is often said that there are more halflings in [[Blackstone][Blackstone]] than are in Bondwafer.
 - <<Goodly Grue>> is an old and crazy *Gnome* who lives in a large patch of woods near Bondwafer.  He is one of the only creatures who believes himself to be a gnome.  He also has no real idea where the other gnomes live.  He is a tinkerer, inventer and alchemist who is currently most interested in [[Gold Creep][The yellow mold]] that grows near his cottage and in various other places.  He is an excellent gardener and potion brewer.
@@ -79,6 +81,7 @@ Sometimes called the "Wood King" or "Lord Butter-Bread", Lord Lutra looks after 
 ** The Church
 The only sanctioned religeon in [[The Kingdom][The Kingdom]].  Every city, town and even most hamlets have at least a shrine dedicated to [[Sol - Birth][Sol]] and under the direct control and curation of *The Church*.  The church welcomes all to it's services but within it's own ranchs, has a rigid structure and heirarchy.  Towns that are graced with a presence of the church have at least a priest, priestess or friar.  Some cities might have hundreds of clergy.  *The Church* doesn't directly involve itself in the day to day political functions of [[The Kingdom][The Kingdom]] but does have a single vote when it comes time to [[Royal Family][choose a royal house]].  Wise noble houses would do well to stay in the good graces of the church, since they command huge amounts of public and private opinion.
 The church also provides communities with vital medical and disaster relief services.  They generally preach peace and forgiveness but when they [[Witchcraft][have reason]] they have little trouble finding a passage or two in [[The Prayers][The Prayers]] to excuse violent torture.
+*** Church Heirarchy
 The Church is organized in the following way
 - First Archon
   - Archon
@@ -91,6 +94,10 @@ The Church is organized in the following way
       - Flagulant
 	- Initiate
 	  - Neophite
+*** Pentateuch
+Is the name of the grand old holy book that all [[The Prayers][The Prayers]] are [[Illuminated][Illuminated]] from.  Its kept in the [[Jingwei Basilica][Jingwei Basilica]].
+*** First Facsimiles
+Is a collection of holy books that were not [[Illumination][Illuminated]] through magic but by hand.  Whenever found, they are brought back to be stored in [[The Holy Articulary][The Holy Articulary]] in [[Jingwei Basilica][Jingwei Basilica]].  There are rumors that the /First Facsimiles/ are wildly different than [[The Prayers][The Prayers]].
 ** The Draco-Cults
 There is only one Draco-Cult that moves through the kingdom in broad daylight, that is the cult of [[Raz-Modian][Raz-Modian]].  Every year, the agents of the red dragon select a maiden from amoungst the citizenry and bring her back to Raz-Modian.  This is done with full knowledge and protection of the King.  Many see it as a neccesarry evil and do their best not to draw the attention of any Draco-Cultists. Unknown to most, there are members of other Draco-Cults, in service to some of the other dragons.
 ** House Heron
